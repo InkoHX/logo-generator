@@ -66,7 +66,7 @@ export default class Generator extends Vue {
     domtoimg.toBlob(document.getElementById('preview') as Node, {
       width: 512,
       height: 512
-    }).then((blob: string|Blob) => {
+    }).then((blob: Blob) => {
       saver.saveAs(blob, 'icon.png')
     })
   }
