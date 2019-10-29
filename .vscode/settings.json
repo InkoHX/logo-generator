@@ -8,5 +8,7 @@
   ],
   "files.associations": {
     "*.ts": "typescript"
-  }
+  },
+  "vetur.format.options.tabSize": 2,
+  "vetur.format.options.useTabs": false
 }
