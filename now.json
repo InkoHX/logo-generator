@@ -1,7 +1,10 @@
 {
-  "name": "IconGenerator",
+  "name": "LogoGenerator",
   "version": 2,
-  "alias": "icon-generator",
+  "alias": [
+    "icon-generator",
+    "logo-generator"
+  ],
   "builds": [
     {
       "src": "package.json",
