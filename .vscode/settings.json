@@ -10,8 +10,5 @@
     "*.ts": "typescript"
   },
   "vetur.format.options.tabSize": 2,
-  "vetur.format.options.useTabs": false,
-  "cSpell.words": [
-    "domtoimg"
-  ]
+  "vetur.format.options.useTabs": false
 }
