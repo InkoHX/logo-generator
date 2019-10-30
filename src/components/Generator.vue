@@ -44,7 +44,7 @@ export default class Generator extends Vue {
 
   public text = "Vexera";
 
-  public fontsize = 100;
+  public fontSize = 100;
 
   get style() {
     return {
@@ -57,7 +57,7 @@ export default class Generator extends Vue {
               }
 
               .preview-font {
-                font-size: ${this.fontsize}px;
+                font-size: ${this.fontSize}px;
               }
             `
           }
