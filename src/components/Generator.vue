@@ -21,7 +21,7 @@
       <br />
       <v-row justify="space-around">
         <v-text-field class="ma-2" label="Icon text" type="string" v-model="text"></v-text-field>
-        <v-text-field class="ma-2" label="Font size" type="number" v-model="fontsize"></v-text-field>
+        <v-text-field class="ma-2" label="Font size" type="number" v-model="fontSize"></v-text-field>
       </v-row>
       <v-btn @click="download">download</v-btn>
     </v-layout>
