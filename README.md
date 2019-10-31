@@ -1,13 +1,5 @@
 # logo-generator
 
-<div
-  align="center"
->
-
-![LogoGenerator](https://github.com/InkoHX/logo-generator/blob/master/.github/assets/icon.png?raw=true)
-
-</div>
-
 [![Deploy Button](https://zeit.co/button)](https://zeit.co/new/project?template=InkoHX/logo-generator)
 
 簡単でシンプルなロゴジェネレータ
